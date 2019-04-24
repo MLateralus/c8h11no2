@@ -1,0 +1,27 @@
+{
+  "name": "c8h11no2",
+  "version": "1.0.0",
+  "description": "MC Bart to jest gościu",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLateralus/c8h11no2.git"
+  },
+  "author": "majkel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLateralus/c8h11no2/issues"
+  },
+  "homepage": "https://github.com/MLateralus/c8h11no2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
