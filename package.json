@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/MLateralus/c8h11no2#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "http": "0.0.0",
     "request": "^2.88.0",
     "socket.io": "^2.3.0"
